@@ -3,4 +3,7 @@
 name 		: Ali
 last name 	: Kocaaga
 
+birth date ; 05/19/1967
+Friday 1.00 pm
+
 this is test
